@@ -1,0 +1,26 @@
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+}
+
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#search-bar {
+    margin-bottom: 20px;
+}
+
+#current-weather, #forecast {
+    margin-top: 20px;
+}
+
+.weather-card {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+}
